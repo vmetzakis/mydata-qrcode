@@ -21,4 +21,4 @@ This Python script generates a QR code image from a provided URL string. Make su
 ## Usage
 
   ```sh
-  python mydata-qrcode.py 'C:/exportfolder/' 132615 https://www.aade.gr/
+  python mydata-qrcode.py 'C:\exportfolder\\' 132615 https://www.aade.gr/
